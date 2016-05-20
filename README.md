@@ -1,6 +1,6 @@
 ## Advanced workshop on XGBoost 
 
-Tianqi Chen will be in Los Angeles, June 2, 2016 and besides a 
+Tianqi Chen will be in Santa Monica, June 2, 2016 and besides a 
 [meetup talk in the evening](https://www.eventbrite.com/e/xgboost-a-scalable-tree-boosting-system-tickets-25443090970) 
 (already sold out, sorry)
 I'm also organizing an advanced workshop in the afternoon (3:30-5:30pm in Santa Monica) to do more advanced stuff.
