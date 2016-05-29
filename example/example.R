@@ -66,4 +66,5 @@ system.time({
             early.stop.round = 10, print.every.n = 10)
 })
 
+tail(md)
 
