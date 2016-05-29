@@ -19,7 +19,8 @@ Schedule: <br>
 
 If you have been selected for the workshop, then before coming, 
 read the xgboost paper on [arxiv](https://arxiv.org/abs/1603.02754), 
-check out some suggested topics from the 
-[GH issues](issues) and take a look at some sample code in this repo.
+check out the suggested topics in the 
+[GH issues](https://github.com/szilard/xgboost-adv-workshop-LA/issues) 
+and take a look at some sample code in this repo.
 
 
