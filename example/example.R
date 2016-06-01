@@ -9,9 +9,9 @@ library(Matrix)
 
 set.seed(123)
 
-d_train <- fread("/home/szilard/wip/data/bm-ml/train-1m.csv")
-d_valid <- fread("/home/szilard/wip/data/bm-ml/valid.csv")
-d_test <- fread("/home/szilard/wip/data/bm-ml/test.csv")
+d_train <- fread("train-1m.csv")
+d_valid <- fread("valid.csv")
+d_test <- fread("test.csv")
 
 
 system.time({
