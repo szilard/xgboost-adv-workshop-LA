@@ -5,7 +5,7 @@ Tianqi Chen will be in Santa Monica, June 2, 2016 and besides a
 (already sold out, sorry)
 I'm also organizing an advanced workshop in the afternoon (3:00-6:00pm) to do more advanced stuff.
 There will be only 10 spots for the workshop and you'll have to 
-[apply by filling out this form](https://docs.google.com/forms/d/14rlZFGKBOblu-ynuHp3ev-wrhZqSHQpiHeyjuaVKqN4/viewform?edit_requested=true).
+[apply by filling out this form](https://docs.google.com/forms/d/14rlZFGKBOblu-ynuHp3ev-wrhZqSHQpiHeyjuaVKqN4/viewform?edit_requested=true) (Update: workshop is full.).
 
 The workshop will be a mix of Tianqi talking about more advanced stuff and participants interacting, asking questions etc. (partly hands-on, bring your laptop and your specific questions/problems/datasets). We can use this github repo (issues, PR) for setting up questions/problems/topics etc. to be discussed in the workshop, feel free to participate.  
 
@@ -22,5 +22,11 @@ read the xgboost paper on [arxiv](https://arxiv.org/abs/1603.02754),
 check out the suggested topics in the 
 [GH issues](https://github.com/szilard/xgboost-adv-workshop-LA/issues) 
 and take a look at some sample code in this repo.
+
+If you have a ticket to the evening meetup, the schedule is:  <br>
+7:00pm arrival, food/drinks and networking <br>
+8:00pm introductions, main talk  <br>
+9:30pm after party: more networking, drinks, games, demos etc <br>
+11:30pm closing
 
 
