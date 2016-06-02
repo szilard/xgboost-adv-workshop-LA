@@ -17,6 +17,8 @@ Schedule:
 - 4:45-5:45 Session 2 
 - 5:45-6:15 Networking 
 
+Location disclosed only to the selected participants.
+
 If you have been selected for the workshop, then before coming, 
 read the xgboost paper on [arxiv](https://arxiv.org/abs/1603.02754), 
 check out the suggested topics in the 
@@ -31,4 +33,5 @@ If you have a ticket to the evening meetup, the schedule is:
 - 9:30 after party: more networking, drinks, games, demos etc 
 - 11:30 closing
 
+All meetup info [here](https://www.eventbrite.com/e/xgboost-a-scalable-tree-boosting-system-tickets-25443090970).
 
