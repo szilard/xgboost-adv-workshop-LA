@@ -9,13 +9,13 @@ There will be only 10 spots for the workshop and you'll have to
 
 The workshop will be a mix of Tianqi talking about more advanced stuff and participants interacting, asking questions etc. (partly hands-on, bring your laptop and your specific questions/problems/datasets). We can use this github repo (issues, PR) for setting up questions/problems/topics etc. to be discussed in the workshop, feel free to participate.  
 
-Schedule: <br>
-3:00-3:15 Arrival <br>
-3:15-3:30 Networking, Intro <br>
-3:30-4:30 Session 1 <br>
-4:30-4:45 Break (coffee/cookies) <br>
-4:45-5:45 Session 2 <br>
-5:45-6:15 Networking 
+Schedule: 
+- 3:00-3:15 Arrival 
+- 3:15-3:30 Networking, Intro 
+- 3:30-4:30 Session 1 
+- 4:30-4:45 Break (coffee/cookies) 
+- 4:45-5:45 Session 2 
+- 5:45-6:15 Networking 
 
 If you have been selected for the workshop, then before coming, 
 read the xgboost paper on [arxiv](https://arxiv.org/abs/1603.02754), 
@@ -23,7 +23,7 @@ check out the suggested topics in the
 [GH issues](https://github.com/szilard/xgboost-adv-workshop-LA/issues) 
 and take a look at some sample code in this repo.
 
-If you have a ticket to the evening meetup, the schedule is:  <br>
+If you have a ticket to the evening meetup, the schedule is: <br>
 7:00pm arrival, food/drinks and networking <br>
 8:00pm introductions, main talk  <br>
 9:30pm after party: more networking, drinks, games, demos etc <br>
