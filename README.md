@@ -27,7 +27,7 @@ and take a look at some sample code in this repo.
 
 ------------------------
 
-If you have a ticket to the *evening meetup*, the schedule is: 
+If you have a ticket to the **evening meetup**, the schedule is: 
 - 7:00pm arrival, food/drinks and networking 
 - 8:00 introductions, main talk  
 - 9:30 after party: more networking, drinks, games, demos etc 
