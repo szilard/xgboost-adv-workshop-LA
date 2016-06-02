@@ -27,11 +27,11 @@ and take a look at some sample code in this repo.
 
 ------------------------
 
-If you have a ticket to the **evening meetup**, the schedule is: 
+If you have a ticket to the **evening meetup** at Red Bull, the schedule is: 
 - 7:00pm arrival, food/drinks and networking 
 - 8:00 introductions, main talk  
 - 9:30 after party: more networking, drinks, games, demos etc 
 - 11:30 closing
 
-All meetup info [here](https://www.eventbrite.com/e/xgboost-a-scalable-tree-boosting-system-tickets-25443090970).
+All meetup info (location, parking etc.) [here](https://www.eventbrite.com/e/xgboost-a-scalable-tree-boosting-system-tickets-25443090970).
 
